@@ -4,4 +4,7 @@
 }
 
 /* Make count indicator icon dark and transparent */
-.countIndicator {background: #00000058;}
+
+
+/* Make count indicator icon dark and transparent */
+.countIndicator {background: #00000058 !important;} 
