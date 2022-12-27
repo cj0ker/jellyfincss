@@ -1,6 +1,6 @@
 /* Make watched icon dark and transparent */
 .playedIndicator {
-  background: #00000058;
+  background: #ff0000;
 }
 
 /* Make count indicator icon dark and transparent */
