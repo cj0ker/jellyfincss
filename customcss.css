@@ -22,9 +22,15 @@
 
 
 
+
+
 :root {--rounding: 5px;}
 
 /*Style backdrop*/
 .backdropImage {
   filter: blur(60px) saturate(200%) contrast(160%) brightness(25%);
+}
+
+div.nextUpSection {
+  display: none;
 }
