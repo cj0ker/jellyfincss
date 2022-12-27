@@ -12,6 +12,10 @@
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/titlepage/title_simple-logo.css');
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/bottombarprogress.css');
 
+div.nextUpSection {
+  display: none !important;
+}
+
 /* Shrink and square (or round) cast thumnails */
 #castContent .card.overflowPortraitCard.personCard.card-hoverable.card-withuserdata {
     width: 4.2cm !important;
